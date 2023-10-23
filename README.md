@@ -1,2 +1,2 @@
-# Stack-Overflow-survey-analysisc
-Analysis of Stack Overflow surveys. 
+# Stack-Overflow-survey-analysis
+In the subsequent project, a comprehensive analysis of Stack Overflow surveys was conducted. The primary objective of the machine learning aspect was to determine whether an individual is interested in potential job opportunities or not. Through advanced data exploration, feature selection, and model training, the project aimed to develop a predictive system capable of categorizing survey respondents based on their job-seeking intentions. The findings from this analysis provide valuable insights into the job market trends and can be instrumental in tailoring recruitment strategies to specific candidate preferences.
